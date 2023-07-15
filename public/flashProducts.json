@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Mens T-Shirt",
+        "price": 220,
+        "imgUrl": "",
+        "description": "This products is very comfortable and 100% cotton."
+    },
+    {
+        "id": 2,
+        "name": "Mens T-Shirt",
+        "price": 220,
+        "imgUrl": "",
+        "description": "This products is very comfortable and 100% cotton."
+    },
+    {
+        "id": 3,
+        "name": "Mens T-Shirt",
+        "price": 220,
+        "imgUrl": "",
+        "description": "This products is very comfortable and 100% cotton."
+    },
+    {
+        "id": 4,
+        "name": "Mens T-Shirt",
+        "price": 220,
+        "imgUrl": "",
+        "description": "This products is very comfortable and 100% cotton."
+    },
+    {
+        "id": 5,
+        "name": "Mens T-Shirt",
+        "price": 220,
+        "imgUrl": "",
+        "description": "This products is very comfortable and 100% cotton."
+    }
+]

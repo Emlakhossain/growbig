@@ -1,17 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Navbar from './Share-page/Navbar/Navbar';
-import Footer from './Share-page/Footer/Footer';
-import Baner from './Pages/Baner/Baner';
-import Home from './Pages/Home/Home';
+import { RouterProvider } from 'react-router-dom';
+import router from './Pages/Routes/Routes';
 
 function App() {
   return (
-    <>
-      <Navbar></Navbar>
-      <Home></Home>
-      <Footer></Footer>
-    </>
+    <div>
+      <RouterProvider router={router}></RouterProvider>
+    </div>
   );
 }
 
