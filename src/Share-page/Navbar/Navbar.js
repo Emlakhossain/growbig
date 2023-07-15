@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
 
+    // navbar menu started
     const menuItems = <>
         <li><Link to="/">Home</Link> </li>
         <li><Link to="/about">About</Link> </li>
@@ -10,7 +11,7 @@ const Navbar = () => {
         <li><Link to="/login">Login</Link> </li>
 
     </>
-
+    // navbar ended
     return (
         <div>
             <div className="navbar bg-base-100">
