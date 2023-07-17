@@ -3,35 +3,64 @@
         "id": 1,
         "name": "Mens T-Shirt",
         "price": 220,
-        "imgUrl": "",
-        "description": "This products is very comfortable and 100% cotton."
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png",
+        "description": "This products is very comfortable and 100% cotton.",
+        "stock": "available"
     },
     {
         "id": 2,
         "name": "Mens T-Shirt",
         "price": 220,
-        "imgUrl": "",
-        "description": "This products is very comfortable and 100% cotton."
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png",
+        "description": "This products is very comfortable and 100% cotton.",
+        "stock": "available"
     },
     {
         "id": 3,
         "name": "Mens T-Shirt",
         "price": 220,
-        "imgUrl": "",
-        "description": "This products is very comfortable and 100% cotton."
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png",
+        "description": "This products is very comfortable and 100% cotton.",
+        "stock": "Nill"
     },
     {
         "id": 4,
         "name": "Mens T-Shirt",
         "price": 220,
-        "imgUrl": "",
-        "description": "This products is very comfortable and 100% cotton."
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png",
+        "description": "This products is very comfortable and 100% cotton.",
+        "stock": "available"
     },
     {
         "id": 5,
         "name": "Mens T-Shirt",
         "price": 220,
-        "imgUrl": "",
-        "description": "This products is very comfortable and 100% cotton."
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png",
+        "description": "This products is very comfortable and 100% cotton.",
+        "stock": "Nill"
+    },
+    {
+        "id": 6,
+        "name": "Mens T-Shirt",
+        "price": 220,
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png",
+        "description": "This products is very comfortable and 100% cotton.",
+        "stock": "Nill"
+    },
+    {
+        "id": 7,
+        "name": "Mens T-Shirt",
+        "price": 220,
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png",
+        "description": "This products is very comfortable and 100% cotton.",
+        "stock": "Nill"
+    },
+    {
+        "id": 8,
+        "name": "Mens T-Shirt",
+        "price": 220,
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png",
+        "description": "This products is very comfortable and 100% cotton.",
+        "stock": "Nill"
     }
 ]

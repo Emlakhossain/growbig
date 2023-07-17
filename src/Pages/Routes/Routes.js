@@ -4,6 +4,7 @@ import Home from "../Home/Home";
 import About from "../About/About";
 import Login from "../Login/Login";
 import Register from "../Register/Register";
+import ProductInfo from "../ProductInfo";
 
 
 
@@ -18,15 +19,28 @@ const router = createBrowserRouter([
                 element: <Home></Home>
             },
             {
-                path: '/about',
+                path: 'home',
+                element: <Home></Home>
+            },
+            {
+                path: '/product/:productId',
+
+                loader: async ({ params }) => {
+                    return fetch(`http://localhost:3000/product/${params.productId}`)
+                },
+                element: <ProductInfo></ProductInfo>
+            },
+
+            {
+                path: 'about',
                 element: <About></About>
             },
             {
-                path: '/register',
+                path: 'register',
                 element: <Register></Register>
             },
             {
-                path: '/login',
+                path: 'login',
                 element: <Login></Login>
             },
 
